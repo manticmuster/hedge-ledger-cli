@@ -1,1 +1,1 @@
-# hedge-ledger-cli
+# hedge ledger cli
